@@ -1,0 +1,2 @@
+URLReader reads an url from user and search all the links and images on the site.
+It counts the weight of images and display links, which can be clicked and searched.
